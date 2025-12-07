@@ -1,3 +1,4 @@
  Hello Remotes 
 line from GitHub 
  Local Edit Conflict 
+GitHub Conflict Edit
