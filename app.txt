@@ -1,2 +1,3 @@
  Hello Remotes 
 line from GitHub 
+GitHub Conflict Edit
