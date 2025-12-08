@@ -8,3 +8,4 @@ main branch update
  Change from Machine A 
  Change from Machine B 
 CONFLICT LINE FROM MACHINE A
+SHARED LINE
