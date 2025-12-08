@@ -5,3 +5,4 @@ GitHub Conflict Edit
  Clone test line 
 main branch update
  Update from machine A 
+ Change from Machine A 
