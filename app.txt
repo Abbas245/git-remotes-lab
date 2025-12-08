@@ -9,3 +9,4 @@ main branch update
  Change from Machine B 
 CONFLICT LINE FROM MACHINE A
 SHARED LINE
+ Base conflict line 
