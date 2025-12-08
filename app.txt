@@ -10,3 +10,5 @@ main branch update
 CONFLICT LINE FROM MACHINE A
 SHARED LINE
  Base conflict line ( Edited on Machine B ) 
+ Base conflict line ( Edited on Machine A ) 
+
