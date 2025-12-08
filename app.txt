@@ -4,4 +4,4 @@ line from GitHub
 GitHub Conflict Edit
  Clone test line 
 main branch update
-
+ Update from machine A 
