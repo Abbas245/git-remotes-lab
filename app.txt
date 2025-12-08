@@ -6,3 +6,4 @@ GitHub Conflict Edit
 main branch update
  Update from machine A 
  Change from Machine A 
+ Change from Machine B 
